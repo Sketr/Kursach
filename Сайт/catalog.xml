@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+    <item>
+        <photo>./img/van1.png</photo>
+        <title>Ванна</title>
+        <description>Испанская, Акриловая, 2м.</description>
+        <price>1100.00р</price>
+    </item>
+     <item>
+        <photo>./img/van2.jpg</photo>
+        <title>Ванна</title>
+        <description>Немецкая, Чугунная, 1.9м</description>
+        <price>1199.00р</price>
+    </item>
+    <item>
+        <photo>./img/van3.jpg</photo>
+        <title>Ванна/Джакузи</title>
+        <description>Российская, Пластиковая, 2м^2</description>
+        <price>2800.00р</price>
+    </item>
+    <item>
+        <photo>./img/van4.jpg</photo>
+        <title>Ванна</title>
+        <description>Итальянская, Акриловая, 2м </description>
+        <price>1400.00р</price>
+    </item>
+    <item>
+        <photo>./img/van5.jpg</photo>
+        <title>Ванна/Джакузи</title>
+        <description>Польская, Пластиковая, 2.5м^2</description>
+        <price>3000.00р</price>
+    </item>
+        <item>
+        <photo>./img/van6.jpg</photo>
+        <title>Ванна</title>
+        <description>Немецкая, Акриловая, 2м</description>
+        <price>1600.00р</price>
+    </item>
+
+    <item>
+        <photo>./img/tyal1.jpg</photo>
+        <title>Унитаз</title>
+        <description>Итальянский, Керамический, без бочка слива</description>
+        <price>1100.00р</price>
+    </item>
+     <item>
+        <photo>./img/tyal2.jpg</photo>
+        <title>Унитаз</title>
+        <description>Итальянский, Керамический, без бочка слива</description>
+        <price>900.00р</price>
+    </item>
+    <item>
+        <photo>./img/tyal3.jpg</photo>
+        <title>Унитаз</title>
+        <description>Немецкий, Керамический </description>
+        <price>900.00р</price>
+    </item>
+    <item>
+        <photo>./img/tyal4.jpg</photo>
+        <title>Унитаз</title>
+        <description>Российский, Керамический</description>
+        <price>600.00р</price>
+    </item>
+    <item>
+        <photo>./img/tyal5.jpg</photo>
+        <title>Унитаз</title>
+        <description>Итальянский, Керамический, без бочка</description>
+        <price>1000.00р</price>
+    </item>
+        <item>
+        <photo>./img/tyal6.jpg</photo>
+        <title>Унитаз</title>
+        <description>Немецкий, Керамический, без бочка</description>
+        <price>1200.00</price>
+    </item>
+
+     <item>
+        <photo>./img/smes1.jpg</photo>
+        <title>Смеситель</title>
+        <description>Итальянский, Алюминевый, Кухонный</description>
+        <price>300.00р</price>
+    </item>
+     <item>
+        <photo>./img/smes2.jpg</photo>
+        <title>Смеситель</title>
+        <description>Итальянский, Алюминевый, Кухонный</description>
+        <price>400.00р</price>
+    </item>
+    <item>
+        <photo>./img/smes3.jpg</photo>
+        <title>Смеситель</title>
+        <description>Немецкий, Алюминевый, Кухонный </description>
+        <price>500.00р</price>
+    </item>
+    <item>
+        <photo>./img/smes4.jpg</photo>
+        <title>Смеситель</title>
+        <description>Российский, Алюминевый, Кухонный</description>
+        <price>600.00р</price>
+    </item>
+    <item>
+        <photo>./img/smes5.jpg</photo>
+        <title>Смеситель</title>
+        <description>Итальянский, Алюминевый, Кухонный</description>
+        <price>700.00р</price>
+    </item>
+        <item>
+        <photo>./img/smes6.jpg</photo>
+        <title>Смеситель</title>
+        <description>Немецкий, Алюминевый, Кухонный</description>
+        <price>300.00</price>
+    </item>
+
+    <item>
+        <photo>./img/rad1.jpg</photo>
+        <title>Радиатор</title>
+        <description>Итальянский, 4х радиаторный</description>
+        <price>600.00р</price>
+    </item>
+     <item>
+        <photo>./img/rad2.jpg</photo>
+        <title>Радиатор</title>
+        <description>Итальянский, 5и радиаторный</description>
+        <price>650.00р</price>
+    </item>
+    <item>
+        <photo>./img/rad3.jpg</photo>
+        <title>Радиатор</title>
+        <description>Немецкий, 8и радиаторный </description>
+        <price>800.00р</price>
+    </item>
+    <item>
+        <photo>./img/rad4.jpg</photo>
+        <title>Радиатор</title>
+        <description>Российский, 4х радиаторный</description>
+        <price>400.00р</price>
+    </item>
+    <item>
+        <photo>./img/rad5.jpg</photo>
+        <title>Радиатор</title>
+        <description>Итальянский, 12и радиаторный</description>
+        <price>1200.00р</price>
+    </item>
+        <item>
+        <photo>./img/rad6.jpg</photo>
+        <title>Радиатор</title>
+        <description>Немецкий, 10и радиаторный</description>
+        <price>990.00</price>
+    </item>
+</items>

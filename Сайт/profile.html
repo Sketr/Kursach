@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <meta charset="UTF-8">
+    <title>Site</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="reset.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header class="header scroll">
+        <div class="wrapper header__wrapper">
+            <a href="index.html" class="header__logo">
+                <img src="./img/svg/logo.svg" alt="logo">
+            </a>
+            <nav class="header__nav">
+                <ul class="header__nav-list">
+                    <li><a href="catalog.html">Каталог</a></li>
+                    <li><a href="#">Доставка и оплата</a></li>
+                    <li><a href="#">Другие услуги</a></li>
+                </ul>
+            </nav>
+
+            <div class="header__contact">
+                <h2>+375(29)666 66 66</h2>
+            </div>
+            <div class="burger">
+                <span></span>
+            </div>
+            <div class="burger_menu">
+                <ul class="burger__menu-list">
+                    <li><a href="catalog.html">Каталог</a></li>
+                    <li><a href="#">Доставка и оплата</a></li>
+                    <li><a href="#">Другие услуги</a></li>
+                </ul>
+            </div>
+        </div>
+    </header>
+    <section class="profile">
+        <div class="wrapper profile__wrapper">
+            <div class="profile__left">
+                <div class="profile__name-block">
+                    <h2 class="profile__name">
+                        Имя
+                    </h2>
+                    <input type="text" class="profile__name-input" placeholder="Иван">
+                </div>
+                <div class="profile__phone-block">
+                    <h2 class="profile__phone">
+                        Телефон
+                    </h2>
+                    <input type="text" class="profile__phone-input" placeholder="+375(29)666 66 66">
+                </div>
+                <div class="profile__email-block">
+                    <h2 class="profile__email">
+                        Ваш E-mail
+                    </h2>
+                    <input type="text" class="profile__email-input" placeholder="E-mail">
+                </div>
+                <div class="profile__city-block">
+                    <h2 class="profile__city">
+                        Ваш город
+                    </h2>
+                    <input type="text" class="profile__city-input" placeholder="Минск">
+                </div>
+                <div class="profile__adress-block">
+                    <h2 class="profile__adress">
+                        Адрес
+                    </h2>
+                    <input type="text" class="profile__adress-input" placeholder="Каменнагорская 214 кв 14">
+                </div>
+            </div>
+            <div class="profile__right">
+                <div class="profile__comment-block">
+                    <h2 class="profile__comment">
+                        Комментарий
+                    </h2>
+                    <textarea class="profile__comment-input" placeholder="Комментарий"></textarea>
+                </div>
+                <div class="profile__promotional-block">
+                    <h2 class="profile__promotional">
+                        Промокод
+                    </h2>
+                    <input type="text" class="profile__promotional-input" placeholder="Промокод">
+                </div>
+                <button class="profile__btn">
+                    Купить
+                </button>
+            </div>
+        </div>
+    </section>
+    <footer class="footer">
+        <div class="social__media">
+            <a href="https://instagram.com">
+                <img src="img/svg/instagram.svg" alt="instagram" class="instagram">
+            </a>
+            <a href="index.html">
+                <img src="img/svg/logo.svg" alt="logo" class="logo__footer">
+            </a>
+            <a href="https://t.me">
+                <img src="img/svg/telegram.svg" alt="telegram" class="telegram">
+            </a>
+        </div>
+    </footer>
+    <script src="index.js"></script>
+</body>
+</html>
