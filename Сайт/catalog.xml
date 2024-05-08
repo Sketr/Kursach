@@ -14,7 +14,7 @@
     </item>
     <item>
         <photo>./img/van3.jpg</photo>
-        <title>Ванна/Джакузи</title>
+        <title>Ванна</title>
         <description>Российская, Пластиковая, 2м^2</description>
         <price>2800.00р</price>
     </item>
@@ -26,7 +26,7 @@
     </item>
     <item>
         <photo>./img/van5.jpg</photo>
-        <title>Ванна/Джакузи</title>
+        <title>Ванна</title>
         <description>Польская, Пластиковая, 2.5м^2</description>
         <price>3000.00р</price>
     </item>

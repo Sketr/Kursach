@@ -1,12 +1,16 @@
 // Функция для загрузки XML через XMLHttpRequest
 function loadXMLDoc(filename, callback) {
     var xhttp = new XMLHttpRequest();
+    var csrfToken = document.querySelector('meta[name="csrf-token"]').getAttribute('content'); // Получаем CSRF токен
+
     xhttp.onreadystatechange = function() {
         if (this.readyState == 4 && this.status == 200) {
             callback(this);
         }
     };
+
     xhttp.open("GET", filename, true);
+    xhttp.setRequestHeader('X-CSRF-TOKEN', csrfToken);
     xhttp.send();
 }
 
