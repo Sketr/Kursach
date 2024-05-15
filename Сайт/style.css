@@ -1176,8 +1176,8 @@ height: 50px;
 
 @media (max-width: 850px) {
     .costya {
-        position: fixed;
-        width: 100%;
+
+        width: 850px;
         bottom: 0;
     }
 
@@ -1187,4 +1187,25 @@ height: 50px;
     }
 }
 
+@media (max-width: 726px) {
+    .catalog__item {
+        max-width: 400px;
+    }
+}
+
+
+@media (max-width: 900px) {
+    .catalog__item {
+        max-width: 450px;
+    }
+}
 /* Adaptive Uslugi end */
+
+@media (max-width: 801px) {
+    .profile__comment{
+        margin-left: 50px;
+    }
+    .profile__comment-input {
+        margin-left: 50px;
+    }
+}
